@@ -1,5 +1,5 @@
 site_name: MyLorum
-site_url: https://self.learn/
+site_url: https://www.self.learn/
 nav:
   - Home: index.md
   - About: about.md
