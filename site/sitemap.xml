@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.self.learn/</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2023-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.self.learn/about/</loc>
-         <lastmod>2023-10-01</lastmod>
+         <lastmod>2023-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.self.learn/try/</loc>
+         <lastmod>2023-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
